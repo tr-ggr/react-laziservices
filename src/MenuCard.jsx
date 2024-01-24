@@ -45,7 +45,7 @@ function MenuCard() {
   }
 
   return (
-    <Card className="w-[40em]">
+    <Card className="sm:w-[40em] w-full">
       <CardHeader>
         <CardTitle>LaziServices Database!</CardTitle>
         <CardDescription>Input data to insert to database!</CardDescription>
